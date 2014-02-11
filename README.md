@@ -1,4 +1,4 @@
-Quiz : Thinkful Student Assignment
+Quiz : A Thinkful Student Assignment
 ----------------------------------
 
 Build a Quiz App
